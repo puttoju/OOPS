@@ -1,9 +1,8 @@
-.vagrant
-/cookbooks
 
-# Bundler
-bin/*
-.bundle/*
+obj/*
+OOPS/.vs/*
+OOPS/obj/*
+OOPS/bin/*
 
-.kitchen/
-.kitchen.local.yml
+
+
